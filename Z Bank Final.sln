@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z Bank Final", "Z Bank Final.csproj", "{487D0E62-9CCA-4B21-A827-4A376D5D6EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487D0E62-9CCA-4B21-A827-4A376D5D6EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487D0E62-9CCA-4B21-A827-4A376D5D6EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487D0E62-9CCA-4B21-A827-4A376D5D6EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487D0E62-9CCA-4B21-A827-4A376D5D6EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
